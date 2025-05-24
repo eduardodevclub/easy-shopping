@@ -7,5 +7,5 @@
 <br>
   - HTML
   - CSS
-
+<br>
 <img src="https://github.com/eduardodevclub/easy-shopping/blob/main/assets/Mockup%20Desktop.png?raw=true"/>
