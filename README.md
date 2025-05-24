@@ -1,12 +1,13 @@
 <h1>Easy Shopping</h1>
 <br>
-<br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 
-<h2>Tecnologias utilizadas</h2>
+### 🛠️ Tecnologias utilizadas:
+
+<img align="left" height="26px" alt="HTML" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png"/>
+<img align="left" height="26px" alt="CSS" src="https://cdn-icons-png.flaticon.com/128/16020/16020753.png"/>
+<img align="left" height="26px" alt="CSS" src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png"/>
 <br>
-  <p>- HTML </p>
-  <p>- CSS </p>
 
 <h2>Versão Desktop</h2>
 <img src="https://github.com/eduardodevclub/easy-shopping/blob/main/assets/Desktop.png?raw=true" width="600" height="300"/>
