@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/eduardodevclub/easy-shopping/blob/main/assets/Desktop.png?raw=true" width="500" alt="Preview Easy Shopping"/>
+</p>
+
 # 🛍️ Easy Shopping
 
 Projeto desenvolvido durante os estudos no [DevClub](https://rodolfomori.com.br/devclub), com o objetivo de praticar HTML e CSS na criação de uma landing page moderna e responsiva.
