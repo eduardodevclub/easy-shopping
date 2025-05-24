@@ -1,6 +1,6 @@
 # 🛍️ Easy Shopping
 
-Projeto desenvolvido durante os estudos no [DevClub](https://rodolfomori.com.br/devclub), com o objetivo de praticar HTML, CSS e JavaScript na criação de uma landing page moderna e responsiva.
+Projeto desenvolvido durante os estudos no [DevClub](https://rodolfomori.com.br/devclub), com o objetivo de praticar HTML e CSS na criação de uma landing page moderna e responsiva.
 
 ---
 
