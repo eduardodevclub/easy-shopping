@@ -7,7 +7,7 @@
 <br>
   <p>- HTML </p>
   <p>- CSS </p>
-<img src="https://github.com/eduardodevclub/easy-shopping/blob/main/assets/Mockup%20Desktop.png?raw=true" width="700" height="650"/>
+<img src="https://github.com/eduardodevclub/easy-shopping/blob/main/assets/Desktop.png?raw=true" width="600" height="550"/>
 <br>
-<img src="https://github.com/eduardodevclub/easy-shopping/blob/main/assets/Mockup%20Mobile.png?raw=true" width="200" height="150"/>
+<img src="https://github.com/eduardodevclub/easy-shopping/blob/main/assets/Mockup%20Mobile.png?raw=true" width="400" height="350"/>
 <br>
