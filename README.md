@@ -5,7 +5,6 @@
 
 <h2>Tecnologias utilizadas</h2>
 <br>
-  - HTML
-  - CSS
-<br>
+  <p>- HTML </p>
+  <p>- CSS </p>
 <img src="https://github.com/eduardodevclub/easy-shopping/blob/main/assets/Mockup%20Desktop.png?raw=true"/>
